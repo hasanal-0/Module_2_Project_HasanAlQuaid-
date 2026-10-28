@@ -1,0 +1,16 @@
+# .env file with API keys
+.env
+
+# local virtual env
+.venv
+
+# .streamlit secrets
+.streamlit/
+
+# pycache
+__pycache__/
+
+# raw data files (large, available for download - see README)
+data/raw/person.csv
+
+.vscode
