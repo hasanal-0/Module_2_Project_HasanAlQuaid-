@@ -1,6 +1,6 @@
 """
 AIPI 510: Module 2 Project: Statistics
-- src/run_experiment.py
+- src/experiment.py
 Hasan Al-Quaid
 =================================================
 time each sorting algorithm on 53 random arrays

@@ -1,6 +1,6 @@
 """
 AIPI 510: Module 2 Project: Statistics
-- src/analysis.py
+- src/statistical_analysis.py
 Hasan Al-Quaid
 =================================================
 Statistical analysis:
